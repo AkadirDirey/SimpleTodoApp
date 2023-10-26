@@ -36,7 +36,7 @@ cd <repository-name>
 
 3. Run the application:
 ```bash
-node todo-cli.js
+node index.js
 ```
 
 ### Usage
